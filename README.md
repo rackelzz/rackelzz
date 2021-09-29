@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## My name is Rachael, thanks for coming to my page.
 
 <!--
